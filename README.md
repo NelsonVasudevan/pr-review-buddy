@@ -1,3 +1,5 @@
+PR Review Buddy - Dashboard 
+
 # PR Review Buddy
 
 A SaaS product that gives engineering teams one unified queue for pull
@@ -32,3 +34,5 @@ This starts the frontend at http://localhost:5173
 Open http://localhost:5173 in your browser. If everything is wired up
 correctly, you'll see a green box confirming the frontend successfully
 reached the backend.
+
+
