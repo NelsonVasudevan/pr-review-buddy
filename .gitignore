@@ -1,0 +1,7 @@
+backend/**/bin/
+backend/**/obj/
+frontend/node_modules/
+frontend/dist/
+**/appsettings.Development.json
+**/*.env
+.env
