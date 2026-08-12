@@ -1,10 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>PrReviewBuddy.Api</RootNamespace>
+    <UserSecretsId>3390828e-4558-4af5-908e-7a1f92ad6a59</UserSecretsId>
   </PropertyGroup>
 
 </Project>
